@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Midnight Oud",
+    "price": 2899,
+    "tag": "BESTSELLER",
+    "category": "Oriental",
+    "img": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=400",
+    "description": "Rich oud and saffron with vanilla base",
+    "rating": 4.8,
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "name": "Citrus Bloom",
+    "price": 1599,
+    "tag": "NEW",
+    "category": "Fresh",
+    "img": "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=400",
+    "description": "Bergamot, neroli and white musk",
+    "rating": 4.5,
+    "stock": 25
+  },
+  {
+    "id": 3,
+    "name": "Velvet Rose",
+    "price": 1999,
+    "tag": "SALE",
+    "category": "Floral",
+    "img": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400",
+    "description": "Damascus rose with amber woods",
+    "rating": 4.7,
+    "stock": 18
+  },
+  {
+    "id": 4,
+    "name": "Ocean Breeze",
+    "price": 1299,
+    "tag": "HOT",
+    "category": "Aquatic",
+    "img": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=400",
+    "description": "Sea salt, sage and driftwood",
+    "rating": 4.3,
+    "stock": 30
+  },
+  {
+    "id": 5,
+    "name": "Vanilla Smoke",
+    "price": 2399,
+    "tag": "PREMIUM",
+    "category": "Gourmand",
+    "img": "https://images.unsplash.com/photo-1588405748880-8d4d8bc8ed3e?w=400",
+    "description": "Tobacco, vanilla and tonka bean",
+    "rating": 4.9,
+    "stock": 8
+  },
+  {
+    "id": 6,
+    "name": "Green Tea",
+    "price": 999,
+    "tag": "ECO",
+    "category": "Fresh",
+    "img": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=400",
+    "description": "Matcha, jasmine and cedar",
+    "rating": 4.2,
+    "stock": 40
+  },
+  {
+    "id": 7,
+    "name": "Santal Royal",
+    "price": 3199,
+    "tag": "LIMITED",
+    "category": "Woody",
+    "img": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=400",
+    "description": "Sandalwood, leather and amber",
+    "rating": 4.8,
+    "stock": 5
+  },
+  {
+    "id": 8,
+    "name": "Cherry Blossom",
+    "price": 1399,
+    "tag": "NEW",
+    "category": "Floral",
+    "img": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?w=400",
+    "description": "Cherry, peony and soft musk",
+    "rating": 4.4,
+    "stock": 22
+  }
+]

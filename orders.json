@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ORD-1776897745674",
+    "customer": {
+      "name": "customer",
+      "address": "Customer Address"
+    },
+    "items": [
+      {
+        "id": 1776897673439,
+        "productId": 2,
+        "name": "Citrus Bloom",
+        "price": 1599,
+        "quantity": 1,
+        "img": "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=400"
+      }
+    ],
+    "total": 1599,
+    "paymentMethod": "COD",
+    "status": "pending",
+    "createdAt": "2026-04-22T22:42:25.675Z"
+  },
+  {
+    "id": "ORD-1776897969032",
+    "customer": {
+      "name": "customer",
+      "address": "Customer Address"
+    },
+    "items": [
+      {
+        "id": 1776897964719,
+        "productId": 2,
+        "name": "Citrus Bloom",
+        "price": 1599,
+        "quantity": 1,
+        "img": "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=400"
+      }
+    ],
+    "total": 1599,
+    "paymentMethod": "COD",
+    "status": "pending",
+    "createdAt": "2026-04-22T22:46:09.032Z"
+  }
+]
